@@ -1,0 +1,11 @@
+https://github.com/vim-scripts/ctags.vim.git
+git://github.com/mileszs/ack.vim.git
+https://github.com/kien/ctrlp.vim.git
+git://github.com/scrooloose/nerdtree.git
+git://github.com/ervandew/supertab.git
+https://github.com/majutsushi/tagbar.git
+https://github.com/jdonaldson/vaxe.git
+https://github.com/bling/vim-airline.git
+https://github.com/altercation/vim-colors-solarized.git
+git://github.com/tpope/vim-dispatch.git
+https://github.com/tpope/vim-fugitive.git
