@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/zerg/src/tpt/source/python'
+let g:netrw_dirhist_2='/home/zerg/src/tpt/source/python/tpt'
+let g:netrw_dirhist_3='/Users/zerg/Source/openfl-extension/linden-poll2pay/dependencies/linden-poll2pay/src/ru/zzzzzzerg/linden'
